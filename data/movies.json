@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "ad": "Interstellar",
+        "yil": 2014,
+        "tur": "Bilim Kurgu",
+        "puan": 8.7,
+        "ozet": "Bir grup astronotun insanlığın hayatta kalmasını sağlamak için bir solucan deliğinden geçmesini konu alır.",
+        "gorsel": "https://picsum.photos/id/10/300/450"
+    },
+    {
+        "id": 2,
+        "ad": "The Godfather",
+        "yil": 1972,
+        "tur": "Suç",
+        "puan": 9.2,
+        "ozet": "Don Vito Corleone'nin imparatorluğunu ve ailesini koruma mücadelesi.",
+        "gorsel": "https://picsum.photos/id/20/300/450"
+    }
+]
